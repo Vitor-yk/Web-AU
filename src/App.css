@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+nav{
+  background-color: #CE2501;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  font-size: 20px;
+}
+body{
+  background-color: white;
+  font-family: 'Poppins', sans-serif;
+}
+#sit-sel{
+  background-color: white;
+  border: 1;
+  border-radius: 20px 0px 0px 20px;
+}
+
+#adot-sel{
+  background-color: white;
+  border: 1;
+}
+#pesq-form{
+  background-color: white;
+  border: 1;
+  border-radius: 0px 20px 20px 0px;
+}
+#Form1{
+  font-size: 19px;
+  border-radius: 20px 0px 0px 20px;
+  box-shadow: 1px 3px 10px rgba(0,0,0, 0.5);
+}
+#Form2{
+  font-size: 19px;
+  box-shadow: 1px 3px 10px rgba(0,0,0, 0.5);
+}
+#search{
+  padding: 2px 0px 0px 0px;
+  border-radius: 0px 20px 20px 0px;
+  height: 31px;
+  box-shadow: 1px 3px 10px rgba(0,0,0, 0.5);
+}
+#nome{
+  padding: 0px 30px;
+  font-size: 20px;
+  width: 180px;
+  float: left;
+  text-align: left;
+  border-color: black;
+  border-radius: 0px 0px 10px 10px;
+  box-shadow: 0 5px 25px rgba(0,0,0, 0.5);
+  color: black;
+}
+img{
+  border-radius: 10px;
+}
